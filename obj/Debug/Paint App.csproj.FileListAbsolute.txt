@@ -1,0 +1,10 @@
+C:\Users\jjhos\Documents\Javo\Sofware Development\Paint App\bin\Debug\Paint App.exe.config
+C:\Users\jjhos\Documents\Javo\Sofware Development\Paint App\bin\Debug\Paint App.exe
+C:\Users\jjhos\Documents\Javo\Sofware Development\Paint App\bin\Debug\Paint App.pdb
+C:\Users\jjhos\Documents\Javo\Sofware Development\Paint App\obj\Debug\Paint App.csproj.AssemblyReference.cache
+C:\Users\jjhos\Documents\Javo\Sofware Development\Paint App\obj\Debug\Paint_App.Form1.resources
+C:\Users\jjhos\Documents\Javo\Sofware Development\Paint App\obj\Debug\Paint_App.Properties.Resources.resources
+C:\Users\jjhos\Documents\Javo\Sofware Development\Paint App\obj\Debug\Paint App.csproj.GenerateResource.cache
+C:\Users\jjhos\Documents\Javo\Sofware Development\Paint App\obj\Debug\Paint App.csproj.CoreCompileInputs.cache
+C:\Users\jjhos\Documents\Javo\Sofware Development\Paint App\obj\Debug\Paint App.exe
+C:\Users\jjhos\Documents\Javo\Sofware Development\Paint App\obj\Debug\Paint App.pdb

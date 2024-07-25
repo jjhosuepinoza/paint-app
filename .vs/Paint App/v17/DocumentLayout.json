@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jjhos\\Documents\\Javo\\Sofware Development\\Paint App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D185CD4E-2B08-4E2C-9854-5B20CB400176}|Paint App.csproj|c:\\users\\jjhos\\documents\\javo\\sofware development\\paint app\\paint app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D185CD4E-2B08-4E2C-9854-5B20CB400176}|Paint App.csproj|solutionrelative:paint app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D185CD4E-2B08-4E2C-9854-5B20CB400176}|Paint App.csproj|c:\\users\\jjhos\\documents\\javo\\sofware development\\paint app\\paint app.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D185CD4E-2B08-4E2C-9854-5B20CB400176}|Paint App.csproj|solutionrelative:paint app.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D185CD4E-2B08-4E2C-9854-5B20CB400176}|Paint App.csproj|c:\\users\\jjhos\\documents\\javo\\sofware development\\paint app\\paint app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D185CD4E-2B08-4E2C-9854-5B20CB400176}|Paint App.csproj|solutionrelative:paint app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paint App.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jjhos\\Documents\\Javo\\Sofware Development\\Paint App\\Paint App.cs",
+              "RelativeDocumentMoniker": "Paint App.cs",
+              "ToolTip": "C:\\Users\\jjhos\\Documents\\Javo\\Sofware Development\\Paint App\\Paint App.cs [Design]",
+              "RelativeToolTip": "Paint App.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T02:47:32.728Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paint App.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jjhos\\Documents\\Javo\\Sofware Development\\Paint App\\Paint App.Designer.cs",
+              "RelativeDocumentMoniker": "Paint App.Designer.cs",
+              "ToolTip": "C:\\Users\\jjhos\\Documents\\Javo\\Sofware Development\\Paint App\\Paint App.Designer.cs",
+              "RelativeToolTip": "Paint App.Designer.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwOoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T02:47:39.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Paint App.cs",
+              "DocumentMoniker": "C:\\Users\\jjhos\\Documents\\Javo\\Sofware Development\\Paint App\\Paint App.cs",
+              "RelativeDocumentMoniker": "Paint App.cs",
+              "ToolTip": "C:\\Users\\jjhos\\Documents\\Javo\\Sofware Development\\Paint App\\Paint App.cs",
+              "RelativeToolTip": "Paint App.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T02:04:40.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
