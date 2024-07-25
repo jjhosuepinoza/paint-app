@@ -10,6 +10,32 @@ You can watch a 4-5 minute demo of the software running and a walkthrough of the
 
 [Software Demo Video](https://youtu.be/1vuagtpqLXs)
 
+# Running the Code
+
+To run the paint canvas application, follow these steps:
+
+1. **Open the Project in Visual Studio**
+
+   - Launch Visual Studio.
+   - Go to `File` -> `Open` -> `Project/Solution`.
+   - Select the `.sln` file in the project folder and open it.
+
+2. **Build and Run the Application**
+
+   - Click on `Build` -> `Build Solution` to compile the project.
+   - After the build completes, click `Debug` -> `Start Debugging` to run the application.
+
+3. **Interact with the Application**
+
+   - Use the mouse to draw on the canvas. Click and drag to create lines.
+
+4. **Close the Application**
+
+   - To stop the application, close the window or use `Shift+F5` in Visual Studio.
+
+If you need further assistance, check the [Useful Websites](#useful-websites) section for helpful resources.
+
+
 # Development Environment
 
 To develop this software, I used the following tools:
