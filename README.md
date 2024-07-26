@@ -9,7 +9,6 @@ The software I wrote demonstrates the C# language's capabilities in creating a g
 You can watch a 4-5 minute demo of the software running and a walkthrough of the code in the video below. The focus is on sharing what I learned about the language syntax and the development process.
 
 
-
 [Software Demo Video ](https://www.youtube.com/watch?v=ChIFSFabxzU)
 
 
